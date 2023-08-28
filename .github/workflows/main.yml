@@ -10,9 +10,9 @@ name: Java CI with Maven
 
 on:
   push:
-    branches: [ "nayanmg_feature" ]
+    branches: [ "demo" ]
   pull_request:
-    branches: [ "nayanmg_feature" ]
+    branches: [ "demo" ]
 
 jobs:
   build:
